@@ -1,0 +1,5 @@
+Django
+djangorestframework
+Pillow
+django-shortcuts
+psycopg2-binary
